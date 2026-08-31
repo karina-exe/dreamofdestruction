@@ -5,7 +5,7 @@ A imagem à direita foi modificada pelo usuário <a href="https://www.deviantart
 
 # 𖹭.ᐟ.ᐟCréditos
 
-- ☆ Criadora do theme <code style="color: pink">original</code> <a href="https://natsyme.tumblr.com">Margaret</a>
+- ☆ Criadora do theme original: <a href="https://natsyme.tumblr.com">Margaret</a>
 - ☆ Link para o theme original: <a href="https://natsyme.tumblr.com/post/185680446826/banana-cupcakes-tumblr-theme-live">"Banana Cupcakes"</a>
 
 # 𖹭.ᐟ.ᐟApresentação 01: THEME ORIGINAL
