@@ -14,4 +14,4 @@ A imagem à direita foi modificada pelo usuário <a href="https://www.deviantart
 
 # 𖹭.ᐟ.ᐟApresentação 02: THEME MODIFICADO
 
-<img src="https://64.media.tumblr.com/23c797d244b76214a280d90d96389440/9c0f9000f85d8145-ed/s2048x3072/b06ad8c61fc20d22dcd6de17f735215a0bcee149.gifv" alt="Banner" width="100%">
+<img src="https://64.media.tumblr.com/23c797d244b76214a280d90d96389440/21fdc3ffd79387b2-c9/s2048x3072/32767f557eeea0b5a65dba150921a59366541d3e.gifv" alt="Banner" width="100%">
